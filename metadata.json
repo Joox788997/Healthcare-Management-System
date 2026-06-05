@@ -1,0 +1,6 @@
+{
+  "name": "Healthcare Management System",
+  "description": "An AI-powered clinic and hospital management system with patient recording, doctor schedules, billing tables, appointments calendar, and a symptom triage assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
